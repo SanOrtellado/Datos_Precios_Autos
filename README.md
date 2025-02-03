@@ -16,7 +16,7 @@ El objetivo de este proyecto es analizar y predecir los factores que influyen en
 
 1. **Marcas con los Precios Más Altos y Más Bajos**
    - Las marcas premium como **BMW**, **Audi** y **Mercedes-Benz** tienen los precios más altos debido a sus características de alta gama.
-   - Marcas como **Toyota** y **Ford** tienen precios más bajos, reflejando su enfoque en la eficiencia y asequibilidad.
+   - Marcas como **Toyota** y **Ford** tienen precios más bajos, reflejando su enfoque en la eficiencia y accesibilidad.
 
 2. **Impacto del Año en el Precio**
    - Existe una correlación positiva entre el año de producción y el precio. Los vehículos más nuevos tienen precios significativamente más altos debido a mejoras tecnológicas y características avanzadas de seguridad.
