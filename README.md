@@ -1,4 +1,8 @@
 ![image](https://github.com/user-attachments/assets/bbd2eb80-3693-4a97-a35b-2c1bf5ceaef5)
+![image](https://github.com/user-attachments/assets/dae93fe1-9098-4c98-b2c2-9dabc07cd5c6)
+![image](https://github.com/user-attachments/assets/0489ee74-245b-4fec-8edb-7b1a8afa12fa)
+
+
 
 
 # Análisis de Precios de Automóviles
