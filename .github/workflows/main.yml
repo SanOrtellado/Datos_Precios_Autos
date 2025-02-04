@@ -1,0 +1,23 @@
+name: Languages Report
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate languages report
+      run: |
+        git clone https://github.com/github/linguist.git
+        ./linguist/bin/linguist > report.txt
+        cat report.txt
+
+    - name: Upload report
+      uses: actions/upload-artifact@v2
+      with:
+        name: languages-report
+        path: report.txt
